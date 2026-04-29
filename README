@@ -1,0 +1,23 @@
+# 🏢 Saudi Establishments Dashboard 2023
+
+Overview
+This dashboard analyzes establishments in Saudi Arabia for 2023, focusing on distribution by size, region, and quarterly trends.
+
+Objective
+To provide clear insights into establishment distribution to support planning and decision-making.
+
+Key Insights
+Total establishments reached 1.31M.
+Micro establishments represent the majority with 1.14M.
+Small establishments reached 150K, while medium establishments were 18.67K.
+Large establishments totaled 3,885.
+Riyadh is the top region by number of establishments.
+The fourth quarter recorded the highest activity.
+
+Tools Used
+Power BI
+Excel
+
+
+#ةDashboard Preview
+![Dashboard](saudi-dashboard.png)
